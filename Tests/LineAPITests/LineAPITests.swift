@@ -1,5 +1,5 @@
 import XCTest
-@testable import LineAPI
+@testable import MKLine
 
 final class LineAPITests: XCTestCase {
     func testExample() throws {

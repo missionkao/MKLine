@@ -1,6 +1,6 @@
 import Foundation
 
-public class LineAPI {
+public class MKLine {
     let host = "api.line.me"
     let channelToken: String
     let session = URLSession.shared
